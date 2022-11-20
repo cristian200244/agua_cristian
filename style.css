@@ -1,0 +1,62 @@
+
+body{
+    background-color: aqua;
+}
+h1 , h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 40pt;
+}
+.contenedor{
+    /* float: right; */
+    margin-top: -17%;
+    text-align: center;
+    font-size: 140%;     
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 0%;
+    margin-left: 2%;
+    display: flex;
+    
+    min-width: 250px;
+      
+}
+.box{
+    width: 30%;
+    height: 20%;
+    text-align: center;
+}
+.parrafo {
+    /* float: left; */
+    padding-left: 2%;
+    margin-left: 0%;
+    margin-right: 70%;
+    text-align: justify;
+    font-family: sans-serif; 
+    display: flex;  
+    min-width: 250px;
+}
+.riesgo{
+    margin-top: -15%;     
+    margin-bottom: 100%;
+    margin-left:70%;
+    display: flex;
+    /* margin-right: 3%; */
+}
+.reiesgo , table{
+    font-size: 130%;
+    text-align: center;
+    
+}
+.historial{ 
+    display: flex;
+    margin-bottom:10%;  
+    font-size: 100%;
+    margin-left: 24%;
+    /* margin-right: 52%; */
+    margin-top: -90%;
+    min-width: 250px;
+    /* margin-left: 20%; */
+}
+
+
+
